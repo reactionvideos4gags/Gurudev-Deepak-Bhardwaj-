@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gurudev Deepak Bhardwaj</string>
+    <string name="app_tagline">Your Wise AI Online Tutor for Class 1 to 10</string>
+    <string name="welcome_guru">Pranam! I am Gurudev Deepak Bhardwaj.</string>
+    <string name="login_title">Student Verification</string>
+    <string name="login_subtitle">Enter your mobile number to receive SMS OTP and connect WhatsApp learning reports</string>
+    <string name="send_otp">Send SMS OTP</string>
+    <string name="verify_otp">Verify &amp; Enter Gurukul</string>
+    <string name="whatsapp_connected">WhatsApp Progress Reports Enabled</string>
+    <string name="ask_question_hint">Ask any question or tap mic to speak…</string>
+    <string name="snap_problem">Snap &amp; Solve Problem</string>
+    <string name="upload_photo">Upload Question Photo</string>
+    <string name="take_photo">Camera</string>
+    <string name="steps_involved">Steps Involved</string>
+    <string name="formula_used">Formula &amp; Core Concept</string>
+    <string name="gurudev_tip">Gurudev Deepak Bhardwaj’s Insight</string>
+    <string name="whatsapp_share_report">Send Learning Report to WhatsApp</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Gurudev Deepak Bhardwaj",
+  "description": "AI Online Tutor for Class 1 to 10 students. Solves problems with step-by-step methods and formulas from photos, answers questions, transcribes voice audio, and sends WhatsApp progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
